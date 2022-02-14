@@ -19,5 +19,4 @@ Feel free to contact me via :
 
 
 # App Preview
-![Screenshot_2022-02-11-02-04-32-314_com example calculator](https://user-images.githubusercontent.com/76899211/153492282-6b5b9286-5468-48b2-85a8-5671188e082d.jpg)
-
+![snip](https://user-images.githubusercontent.com/76899211/150862111-1159139b-af40-494f-9427-0e025b9c117e.PNG)
