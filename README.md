@@ -19,4 +19,5 @@ Feel free to contact me via :
 
 
 # App Preview
-![snip](https://user-images.githubusercontent.com/76899211/150862111-1159139b-af40-494f-9427-0e025b9c117e.PNG)
+![MyCalc](https://user-images.githubusercontent.com/76899211/175803016-cd256e24-02a1-44c2-9356-9e91b82d906a.png)
+
